@@ -4,6 +4,4 @@ I'm a junior game developer who is specialized in production, game design and st
 
 Also, I'm really interested and committed to accessibility, inclusion and social issues (gender equality, LGBT+ community...).
 
-Right now I'm in the process of further training and learning, but I'm also working on developing my portfolio.
-
 https://linktr.ee/ismerrn
