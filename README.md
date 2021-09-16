@@ -1,9 +1,9 @@
-Hello, i'm maría ***(she/her)*** and i'm a graduate in video game creation and storytelling.
+Hello, I'm María ***(she/her)***, a graduate in Video Game Creation and Storytelling + title of Expert in Technical Artist.
 
-i'm a junior game dev who is specialised in production, game design and storytelling, although i also have knowledge about Unity programming (C#), modelling, animation (2D/3D), and more.
+I'm a junior game developer who is specialised in production, game design and storytelling, although i also have knowledge about programming (Unity - C#), modeling (Blender, 3dsMax, Maya and MagickaVoxel), animation (2D/3D), audiovisual production (Photoshop, Adobe Premiere, and Sony Vegas), VFX (Adobe After Effects), eSports and more.
 
-also, i'm really interested and committed to accessibility and inclusion in videogames. 
+Also, I'm really interested and committed to accessibility, inclusion and social causes (gender equality, LGBT+ community...).
 
-right now i'm in the process of further training and learning, but i'm also working on developing my portfolio.
+Right now I'm in the process of further training and learning, but I'm also working on developing my portfolio.
 
 https://linktr.ee/ismerrn
