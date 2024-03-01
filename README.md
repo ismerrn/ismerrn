@@ -1,3 +1,3 @@
 Hi! I'm María ***(she/her)***.
 
-I'm user experience designer (UX/UI) and game producer. Also I'm an accessibility, inclusion and diversity advocate.
+I'm UX/UI designer and UX researcher (specialized in video games). Also accessibility, inclusion and diversity advocate.
