@@ -1,3 +1,7 @@
-Hi! I'm María ***(she/her)***.
+Hi! I'm Mery! My pronouns are ***(she/her)***
 
-I'm UX/UI designer and UX researcher (specialized in video games). Also accessibility, inclusion and diversity advocate.
+UX/UI + AX designer & researcher (specialized in video games)
+
+Software & Video Game QA Tester + Developer (Pytho, C#)
+
+Accessibility, inclusion and diversity advocate
