@@ -6,11 +6,6 @@ I'm an UX/UI + AX designer & researcher (specialized in video games). But now I'
 
 Accessibility, inclusion and diversity advocate
 
-<!--
-![ismerrn's github stats](https://github-readme-stats.vercel.app/api?username=ismerrn&count_private=true&theme=radical&show_icons=true&include_all_commits=true&hide=prs)
-![ismerrn's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismerrn&layout=compact&theme=radical&hide=asp.net&langs_count=10)
- -->
-
 <p align="center"><span>
  <a href="https://github.com/ismerrn"><img height="188em" src="https://github-readme-streak-stats.herokuapp.com/?user=ismerrn&theme=radical" alt="ismerrn streak stats"/></a>
  &emsp;
