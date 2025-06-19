@@ -16,17 +16,3 @@ Accessibility, inclusion and diversity advocate
  &emsp;
  <a href="https://github.com/ismerrn"><img height="188em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismerrn&layout=compact&theme=radical&langs_count=10" alt="ismerrn langs stats"/></a>
 </span></p>
-
-<!-- 
-void link a href https://stackoverflow.com/questions/11144653/a-script-links-without-href
--->
-
-<!-- 
-top languages: 
- &hide=asp.net
--->
-
-<!--
-![GitHub Logo](/images/logo.png)
-snail logo?
--->
