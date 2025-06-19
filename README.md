@@ -2,8 +2,31 @@
 
 Hi! I'm Mery! My pronouns are ***(she/her)***
 
-UX/UI + AX designer & researcher (specialized in video games)
-
-Software & Video Game QA Tester + Developer (Python, C#)
+I'm an UX/UI + AX designer & researcher (specialized in video games). But now I'm focusing in Software & Video Game QA Testing + Developing (Python, C#).
 
 Accessibility, inclusion and diversity advocate
+
+<!--
+![ismerrn's github stats](https://github-readme-stats.vercel.app/api?username=ismerrn&count_private=true&theme=radical&show_icons=true&include_all_commits=true&hide=prs)
+![ismerrn's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismerrn&layout=compact&theme=radical&hide=asp.net&langs_count=10)
+ -->
+
+<p align="center"><span>
+ <a href="https://github.com/ismerrn"><img height="188em" src="https://github-readme-streak-stats.herokuapp.com/?user=ismerrn&theme=radical" alt="fenshan streak stats"/></a>
+ &emsp;
+ <a href="https://github.com/ismerrn"><img height="188em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismerrn&layout=compact&theme=radical&langs_count=10" alt="fenshan langs stats"/></a>
+</span></p>
+
+<!-- 
+void link a href https://stackoverflow.com/questions/11144653/a-script-links-without-href
+-->
+
+<!-- 
+top languages: 
+ &hide=asp.net
+-->
+
+<!--
+![GitHub Logo](/images/logo.png)
+snail logo?
+-->
